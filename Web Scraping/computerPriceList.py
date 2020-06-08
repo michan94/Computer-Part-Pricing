@@ -2,6 +2,8 @@
 # python computerPriceList.py
 
 # Comparing products from Canada Computers to Memory Express
+# CC - https://www.canadacomputers.com/index.php?cPath=179&sf=:
+# ME - https://www.memoryexpress.com/Category/HardDrives?InventoryType=InStock&Inventory=VBBC&Search=SSD&PageSize=120
 
 from bs4 import BeautifulSoup
 import pprint as pp
